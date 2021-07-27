@@ -1,0 +1,19 @@
+{
+  "name": "@kxrxll/librarydefender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxrxll/librarydefender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kxrxll/librarydefender/issues"
+  },
+  "homepage": "https://github.com/kxrxll/librarydefender#readme"
+}
